@@ -3,8 +3,9 @@
 ![메인 페이지](https://github.com/user-attachments/assets/440c2fca-864a-46dd-a28b-4ba25f3bf582)
 
 ---
-ATOMIX 웹/앱 프로젝트
-2025 STDev-Hackathon-Team10 출전 작품
+### ATOMIX 웹/앱 프로젝트
+
+### 2025 STDev-Hackathon-Team10 출전 작품
 
 ---
 ## 개발팀 소개
